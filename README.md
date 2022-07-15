@@ -2,7 +2,7 @@
 Trabalho de Inteligência artificial- algoritmo genético.
 
 
-Elaborado por Fernanda Andrade Pereira Marques e Vitor Lopes Simeoni
+Elaborado por Fernanda Andrade Pereira Marques e Vitor Lopes Simeoni.
 
 ## Descrição 
 Este trabalho é a construção de uma inteligência artificial que joga um dos jogos mais icônicos de toda a história o Tetris. O jogo funciona da seguinte maneira: peças caem de forma aleatória, o grande objetivo é montar a espécie de um quebra cabeças conforme as peças vão chegando, quando uma linha do quebra cabeça é completa ela se apaga contabilizando um número maior de pontos, quanto maior o número de pontos maior a velocidade de queda das peças, o jogo acaba quando o usuário não conseguir montar o quebra cabeça e as peças chegarem até o topo do quadro. Neste trabalho apresentaremos inteligências artificiais que irão jogar o jogo até onde conseguirem.  
