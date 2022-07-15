@@ -2,8 +2,8 @@ import pygame
 import random
 import numpy as np
 import copy
-import tetris_ia.tetris_jogo as game
-import tetris_ia.tetris_ia as ia
+import tetris_jogo as game
+import tetris_ia as ia
 
 
 class cromossomo():
